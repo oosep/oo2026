@@ -1,13 +1,13 @@
-package ee.joosep.veebipood;
+package ee.joosep.autod;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class VeebipoodApplication {
+public class AutodApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(VeebipoodApplication.class, args);
+		SpringApplication.run(AutodApplication.class, args);
 	}
 
 }

@@ -1,13 +1,13 @@
-package ee.joosep.veebipood;
+package ee.joosep.decathlon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class VeebipoodApplication {
+public class DecathlonApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(VeebipoodApplication.class, args);
+		SpringApplication.run(DecathlonApplication.class, args);
 	}
 
 }
